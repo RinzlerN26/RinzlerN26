@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Rathore</h1>
 <h3 align="center">Student | Developer | Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
