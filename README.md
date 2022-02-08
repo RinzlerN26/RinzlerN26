@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Rathore</h1>
+<h1 align="center">Bonjour! 👋, I'm Nishant</h1>
 <h3 align="center">Student | Developer | Enthusiast</h3>
 
 
