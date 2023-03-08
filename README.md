@@ -3,8 +3,9 @@
 
 
 
-I am interested in Android App development and Full Stack Development
+
 <p align="left">
+ I am interested in Android App development and Full Stack Development
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
