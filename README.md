@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour! 👋, I'm Nishant</h1>
 <h3 align="center">Student | Developer | Enthusiast</h3>
-
+I am interested in Android App development and Full Stack Development
 
 <p align="left">
 </p>
