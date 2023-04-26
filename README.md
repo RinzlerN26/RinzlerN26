@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour! 👋, I'm Nishant</h1>
+<h1 align="center">Greetings! 👋, I'm Nishant</h1>
 <h3 align="center"> Android Developer(React Native, Flutter, Kotlin) | Full Stack Developer(ReactJS, NodeJS, Bootstrap, PHP-MySQL)</h3>
 
 <h3 align="left">Connect with me:</h3>
