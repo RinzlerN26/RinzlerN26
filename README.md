@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋, I'm Nishant</h1>
-<h3 align="center"> Android Developer(React Native, Flutter) | Full Stack Developer(ReactJS, NodeJS, Bootstrap, PHP-MySQL, MERN)</h3>
+<h3 align="center"> Android Developer(React Native, Flutter) | Full Stack Developer(React.js, Node.js, Bootstrap, PHP-MySQL, MERN)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
