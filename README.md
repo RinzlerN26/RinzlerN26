@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rinzlern26&show_icons=true&locale=en" alt="rinzlern26" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinzlern26&show_icons=true&locale=en&layout=compact" alt="rinzlern26" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinzlern26&" alt="rinzlern26" /></p>
+
