@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋, I'm Nishant</h1>
-<h3 align="center">An individual and a team player with great enthusiasm for software engineering, seeking opportunities to learn and grow and positively contribute to the industry.</h3>
+<h3 align="center"> ⚡ An individual and a team player with great enthusiasm for software engineering, seeking opportunities to learn and grow and positively contribute to the industry.</h3>
 <h3 align="center"> 🔭 Works on App Dev & Full Stack Dev</h3>
 
 <h3 align="left">Connect with me:</h3>
