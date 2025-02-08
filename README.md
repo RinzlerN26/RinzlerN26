@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! 👋, I'm Nishant</h1>
 <p align="left"> ⚡ An individual and a team player with great enthusiasm for software engineering.</p>
 <p align="left"> 💬 Seeking opportunities to learn and grow and positively contribute to the industry.</p>
-<p align="left"> 🔭 Works on App Dev & Full Stack Dev.</p>
+<p align="left"> 🔭 Works on building Android Applications & Full Stack Web Applications.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
